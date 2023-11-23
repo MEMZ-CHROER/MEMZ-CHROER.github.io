@@ -1,30 +1,20 @@
-# ○ 莫老师的附件表
+# ○ lxy的附件表
 
-> 莫老师的附件表（请按快捷键 Ctrl+F 来搜索内容）
+> lxy的附件表（请按快捷键 Ctrl+F 来搜索内容）
 
 ✓ 和每期视频保持同步更新
 
 ✓ 在这个文档里可以做什么？
+<HR>
 
-○ 你可以方便的在这里查阅并下载莫老师每期视频的附件
+##### **EP133 - 我的服务器我做主！Phpstudy使用**
+● Phpstudy（官网）:https://www.xp.cn
 
-<del>○ 另外还可以找到一些黑历史（Bushi）</del>
 
-✓ 莫老师的主页：
-
-○ B站（首发）：[点此进入](https://space.bilibili.com/1995424953)
-
-○ 西瓜视频：[点此进入](https://www.ixigua.com/home/303878777609358)
-
-○ 抖音：[点此进入](https://v.douyin.com/MYjf1JM/)
-
-○ 微博：[点此进入](https://weibo.com/u/7826133162)
-
-○ YOUTUBE：[点此进入](https://www.youtube.com/@zxmls)
-
-○ 微信视频号：<del>在下莫老师（删号了）<del>
 
 <HR>
+
+
 
 ##### **EP132 - 才不是VR、AR眼镜呢！画质即正义的观影头显，GOOVIS G3 MAX上手**
 
