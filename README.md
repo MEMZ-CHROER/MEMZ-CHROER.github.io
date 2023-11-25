@@ -7,6 +7,16 @@
 ✓ 在这个文档里可以做什么？
 <HR>
 
+##### **EP144 - 不会搭建服务器？不会做网站？WordPress使用**
+● WordPress（官网）:https://www.wordpress.com
+● 几千寒热（教程） :https://jiqianhanre.com
+
+
+
+<HR>
+
+
+
 ##### **EP133 - 我的服务器我做主！Phpstudy使用**
 ● Phpstudy（官网）:https://www.xp.cn
 
